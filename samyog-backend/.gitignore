@@ -1,0 +1,12 @@
+node_modules/
+uploads/
+model/
+results/
+dataset/
+.env
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.bin
+*.safetensors
